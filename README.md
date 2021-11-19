@@ -134,3 +134,5 @@ If your company benefits from this project and you would like to provide essenti
 ### 4. Request that EasyCLA be enabled
 
 When the above steps are completed, please reach out to [Joaquin Prado](mailto:info@open-manufacturing.org) and EasyCLA will be enabled for your repos.
+
+New line by me ...
